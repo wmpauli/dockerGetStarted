@@ -1,0 +1,2 @@
+# dockerGetStarted
+minimal docker example
